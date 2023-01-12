@@ -4,7 +4,7 @@ Hello, world!
 # Hello
 ## Hello
 [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
-![Image]
+![Image](Capture3.PNG)	
 > Hello
 
 * CSE 15L
