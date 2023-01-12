@@ -1,6 +1,6 @@
 Introduction
 
-*Haotong Wu*
+*CSE 15L*
 **UCSD Class of 2024**	
 # HAOTNG WU
 ## Hello
