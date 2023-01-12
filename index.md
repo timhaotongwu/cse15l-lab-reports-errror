@@ -26,7 +26,7 @@ The Horizontal rule:
 `Learn` to code
 
 ```
-CSE
-Markdown
-Lab 
+Love
+to
+Learn
 ```
