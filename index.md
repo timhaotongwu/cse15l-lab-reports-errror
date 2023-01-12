@@ -23,7 +23,7 @@ The Horizontal rule:
 
 ---
 
-`THE Inline code` with backticks in CSE 15L
+`Learn` to code
 
 ```
 CSE
