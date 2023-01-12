@@ -11,9 +11,10 @@ Hello, world!
 * CSE 12
 * CSE 30
 
-1. Five
-2. Eight
-3. Nine
+ My three favorites cities in California
+1. La Jolla
+2. Irvine 
+3. Los Angeles
 
 The Horizontal rule:
 
