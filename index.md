@@ -5,7 +5,7 @@ Introduction
 # HAOTNG WU
 ## Major: Mathematics and Computer Science
 [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
-![Image](R (1).jfif)	
+![Image](Giesel.jfif)	
 > Hello
 
 Courses taken under CSE
