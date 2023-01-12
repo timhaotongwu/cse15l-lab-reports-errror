@@ -19,7 +19,7 @@ The Horizontal rule:
 
 ---
 
-`THE Inline code` with backticks 
+`THE Inline code` with backticks in CSE 15L
 
 ```
 CSE
