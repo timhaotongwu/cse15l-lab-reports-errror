@@ -8,9 +8,11 @@ Introduction
 ![Image](Capture3.PNG)	
 > Hello
 
-* CSE 15L
-* CSE 12
-* CSE 30
+Courses taken under CSE
+
+* CSE 8A
+* CSE 8B
+* CSE 20
 
  My three favorites cities in California
 1. La Jolla
