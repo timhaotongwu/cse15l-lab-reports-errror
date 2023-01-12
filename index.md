@@ -19,7 +19,7 @@ Courses taken under CSE
 2. Irvine 
 3. Los Angeles
 
-The Horizontal rule:
+Next:
 
 ---
 
