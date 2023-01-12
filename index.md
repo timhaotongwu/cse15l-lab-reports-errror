@@ -3,7 +3,7 @@ Introduction
 *CSE 15L*
 **UCSD Class of 2024**	
 # HAOTNG WU
-## Mathematics and Computer Science
+## Major: Mathematics and Computer Science
 [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
 ![Image](Capture3.PNG)	
 > Hello
