@@ -4,7 +4,7 @@ Introduction
 **UCSD Class of 2024**	
 # HAOTNG WU
 ## Major: Mathematics and Computer Science
-[Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
+THE CSE 15L course [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
 ![Image](Giesel.jfif)	
 > 4th floor of Giesel Library 
 
