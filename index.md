@@ -6,7 +6,7 @@ Introduction
 ## Major: Mathematics and Computer Science
 [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
 ![Image](Giesel.jfif)	
-> Hello
+> 4th floor of Giesel Library 
 
 Courses taken under CSE
 
