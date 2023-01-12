@@ -1,7 +1,7 @@
 Introduction
 
 *Haotong Wu*
-**Hello**	
+**UCSD Class of 2024**	
 # HAOTNG WU
 ## Hello
 [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
