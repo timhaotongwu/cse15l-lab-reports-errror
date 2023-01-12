@@ -6,3 +6,23 @@ Hello, world!
 [Link](https://ucsd-cse15l-w23.github.io/week/week1/)	
 ![Image](http://url/a.png)
 > Hello
+
+* CSE 15L
+* CSE 12
+* CSE 30
+
+1. Five
+2. Eight
+3. Nine
+
+The Horizontal rule:
+
+---
+
+`THE Inline code` with backticks 
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
