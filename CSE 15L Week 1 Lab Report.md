@@ -1,3 +1,2 @@
 # CSE 15L Week 1 Lab Report
-1. Logging in to account 
-2.
+First Login in to https://sdacs.ucsd.edu/~icc/index.php, to find out the account and reset passward 
