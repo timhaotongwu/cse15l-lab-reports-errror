@@ -1,4 +1,4 @@
-# CSE 15L Week 1 Lab Report Haotong Wu
+# CSE 15L Week 1 Lab Report Haotong Wu Jan 16, 2022
 1. First Login in to https://sdacs.ucsd.edu/~icc/index.php, to find out the account and reset passward 
 <img width="950" alt="Capture" src="https://user-images.githubusercontent.com/122568570/212788097-4407e657-cfca-4640-9e6d-da8e9d8236ea.PNG">
 
