@@ -7,6 +7,7 @@
 
 3. Open the Visual Studio Code Application and make sure that Git is download as well https://gitforwindows.org/ and set default terminal git bash in Visual Studio code.
 <img width="773" alt="e" src="https://user-images.githubusercontent.com/122568570/212788443-e7e69240-ffa6-46db-a157-57f867a22e1c.PNG">
+<img width="480" alt="都" src="https://user-images.githubusercontent.com/122568570/212789023-9f582b61-cd5a-4cdb-b6a6-3f4d31c91cdc.PNG">
 
 
 4. using ssh to open a terminal in Visual Studio Code and put command as following:
