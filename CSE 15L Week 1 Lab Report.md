@@ -1,5 +1,6 @@
 # CSE 15L Week 1 Lab Report Haotong Wu
 1. First Login in to https://sdacs.ucsd.edu/~icc/index.php, to find out the account and reset passward 
+<img width="950" alt="Capture" src="https://user-images.githubusercontent.com/122568570/212788097-4407e657-cfca-4640-9e6d-da8e9d8236ea.PNG">
 2. Download the Visual Studio Code application which link is here : https://code.visualstudio.com/
 3. Open the Visual Studio Code Application and make sure that Git is download as well https://gitforwindows.org/ and set default terminal git bash in Visual Studio code.
 4. using ssh to open a terminal in Visual Studio Code and put command as following:
