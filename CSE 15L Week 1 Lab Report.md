@@ -18,4 +18,10 @@ $ ssh cs15lwi23zz@ieng6.ucsd.edu (make sure to adjust the zz to your own account
 6. If the passward is entered correctly you will see a big messeage showing that now on remote server in the first line of the message.
 <img width="585" alt="a" src="https://user-images.githubusercontent.com/122568570/212788679-dd9df8ae-d286-460d-bc3a-ad72eb1cad22.PNG">
 
-7. After login the account we want to run some commands.
+7. After login the account we want to run some commands. I tried the code ls -a which is a command can list all files including the hidden files and directories
+<img width="703" alt="Is a" src="https://user-images.githubusercontent.com/122568570/212789315-edfc0abc-1e4c-4fe3-bf69-3d5e92ff1d1f.PNG">
+
+8. Then we try the ls - lat command which shows the long listing format for hidden files and directories which include date, time, data size, parent directories and files format.
+<img width="693" alt="Is-lat" src="https://user-images.githubusercontent.com/122568570/212789413-5395cca3-ba15-467d-8c8d-4ec4cff1ec2e.PNG">
+
+
