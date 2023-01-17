@@ -14,5 +14,6 @@ $ ssh cs15lwi23zz@ieng6.ucsd.edu (make sure to adjust the zz to your own account
 5. Then you might see a long message and just reply yes and then press enter button on your keyboard and then their be will word asking for passward, just enter the passward you reset from step 1, you won't see the actual letter and number just make sure it is correct.
 
 6. If the passward is entered correctly you will see a big messeage showing that now on remote server in the first line of the message.
+<img width="585" alt="a" src="https://user-images.githubusercontent.com/122568570/212788679-dd9df8ae-d286-460d-bc3a-ad72eb1cad22.PNG">
 
 7. After login the account we want to run some commands.
